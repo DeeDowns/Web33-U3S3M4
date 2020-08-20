@@ -7,6 +7,7 @@ function App() {
   return (
     <main>
       <h1>Hello ? </h1>
+      <p>is it me you're looking for ?</p>
       <h2>
         Deployed with{' '}
         <a
